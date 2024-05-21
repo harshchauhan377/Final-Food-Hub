@@ -1,0 +1,20 @@
+.nav-linkss {
+    list-style-type: none;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .cart-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+  }
+  
+  .cart-button:hover {
+    color: #c6a969; 
+  }
+  
+  /* Ensure other styles are properly defined */
+  
